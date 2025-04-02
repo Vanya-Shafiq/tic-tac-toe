@@ -38,4 +38,3 @@ The following functions are implemented in `tictactoe.py`:
 ## Notes
 - The AI uses a **recursive Minimax algorithm** to evaluate future board states.
 - The original board is not modified directly; deep copies are used for accurate simulations.
-- Helper functions may be added, as long as they do not conflict with existing function names.
